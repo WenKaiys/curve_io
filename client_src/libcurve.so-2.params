@@ -1,0 +1,3 @@
+bazel-out/k8-fastbuild/bin/src/client/_objs/curve/libcurve_client.pic.o
+-lstdc++
+-lm

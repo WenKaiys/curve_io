@@ -1,0 +1,4 @@
+rcsD
+bazel-out/k8-fastbuild/bin/src/client/libcbd.a
+bazel-out/k8-fastbuild/bin/src/client/_objs/cbd/libcbd_ext4.pic.o
+bazel-out/k8-fastbuild/bin/src/client/_objs/cbd/libcbd_libcurve.pic.o
